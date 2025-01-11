@@ -4,4 +4,4 @@ Now, select an option to proceed.
 
 <a href="/web.html"><button>Take me to the Web!</button></a>
 
-<a href="/games.md"><button>Lemme Download some games!</button></a>
+<a href="/games.html"><button>Lemme Download some games!</button></a>
